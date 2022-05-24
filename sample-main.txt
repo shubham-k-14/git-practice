@@ -1,1 +1,1 @@
-This is sample app
+This is sample application
