@@ -1,1 +1,1 @@
-This is sample application
+This is sample application.
